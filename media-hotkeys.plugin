@@ -1,0 +1,10 @@
+[Plugin]
+Loader=python3
+Module=media-hotkeys
+IAge=3
+Depends=rb
+Name=Media Hotkeys
+Description=Adds the F10 hotkey to play the next song.
+Authors=Andrey Izman
+Copyright=Copyright © 2025 Andrey Izman <izmanw@gmail.com>
+Website=https://github.com/mervick/media-hotkeys
